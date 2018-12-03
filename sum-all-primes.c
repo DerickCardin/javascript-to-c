@@ -26,5 +26,8 @@
 
 
 int main(void){
-
+ int num = get_int("Number: ");
+ for (int i = 2; i <= num; i++){
+     if()
+ }
 }
