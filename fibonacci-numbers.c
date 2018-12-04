@@ -1,5 +1,6 @@
 #include <cs50.h>
-#include <stduio.h>
+#include <stdio.h>
+#include <math.h>
 
 // Array.prototype.last = function(){
 // return this[this.length-1];
